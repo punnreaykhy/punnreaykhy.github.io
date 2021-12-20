@@ -646,7 +646,7 @@ nav .desktop-nav li a:hover {
     font-size: 16px;
     justify-content: center;
     text-align: center;
-    background: url(/images/iphone-13-pro-max-cameras.jpg);
+    background: url('images/iphone-13-pro-max-cameras.jpg');
     height: 60rem;
     background-size: auto 30rem;
     background-position: center;
@@ -667,7 +667,7 @@ nav .desktop-nav li a:hover {
     font-size: 18px;
     justify-content: center;
     text-align: center;
-    background: url(/images/hero_1_static__d195o2nfxt26_large.png);
+    background: url('images/hero_1_static__d195o2nfxt26_large.png');
     height: 55rem;
     background-size: auto 35rem;
     background-position: center;
@@ -688,7 +688,7 @@ nav .desktop-nav li a:hover {
     font-size: 18px;
     justify-content: center;
     text-align: center;
-    background: url(/images/macbook-pro-14-and-16_overview__fz0lron5xyuu_og.png);
+    background: url(images/macbook-pro-14-and-16_overview__fz0lron5xyuu_og.png);
     height: 60rem;
     background-size: auto 35rem;
     background-position: center;
@@ -707,7 +707,7 @@ nav .desktop-nav li a:hover {
     font-size: 18px;
     justify-content: center;
     text-align: center;
-    background: url(/images/homepod-mini-og-202110.jpg);
+    background: url(images/homepod-mini-og-202110.jpg);
     
     background-size: auto 19rem;
     background-position: center;
@@ -723,7 +723,7 @@ nav .desktop-nav li a:hover {
     font-size: 18px;
     justify-content: bottom;
     text-align: center;
-    background: url(/images/airpods.png);
+    background: url(images/airpods.png);
     
     background-size: auto 28rem;
     background-position: top;
@@ -746,7 +746,7 @@ nav .desktop-nav li a:hover {
     font-size: 18px;
     justify-content: bottom;
     text-align: center;
-    background: url(/images/Apple_watch-series7-availability_durability_10052021_big.jpg.slideshow-xlarge_2x.jpg);
+    background: url(images/Apple_watch-series7-availability_durability_10052021_big.jpg.slideshow-xlarge_2x.jpg);
     
     background-size: auto 25rem;
     background-position: bottom;
@@ -763,7 +763,7 @@ nav .desktop-nav li a:hover {
     font-size: 18px;
     justify-content: bottom;
     text-align: center;
-    background: url(/images/Arcade.png);
+    background: url(images/Arcade.png);
     
     background-size: auto 18rem;
     background-position: bottom;
@@ -780,7 +780,7 @@ nav .desktop-nav li a:hover {
     font-size: 18px;
     justify-content: bottom;
     text-align: center;
-    background: url(/images/card.png);
+    background: url(images/card.png);
     
     background-size: auto 24rem;
     background-position: bottom;
@@ -797,7 +797,7 @@ nav .desktop-nav li a:hover {
     font-size: 18px;
     justify-content: bottom;
     text-align: center;
-    background: url(/images/swagger.jpg);
+    background: url(images/swagger.jpg);
     
     background-size: auto 45rem;
     background-position: center;
